@@ -1,0 +1,17 @@
+# Raw datasets (download separately; see README.md)
+/freMTPL2freq.csv
+/freMTPL2sev.csv
+
+# Large generated predictions
+/Insurance_Claims_Pricing/Portfolio_Pure_Premium_Predictions.csv
+
+# Jupyter / Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
