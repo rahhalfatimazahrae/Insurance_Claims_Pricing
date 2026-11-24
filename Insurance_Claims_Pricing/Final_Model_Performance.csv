@@ -1,0 +1,5 @@
+Component,MAE,RMSE,Key_Result
+Frequency - Poisson GLM,0.09883703774733706,0.2372916839488478,"Predicted claims: 7,194.82"
+Severity - Gamma GLM,2020.18,8433.56,Interpretable actuarial benchmark
+Severity - Gradient Boosting,1961.4,8374.84,Leading severity prediction candidate
+Pure Premium - Combined Model,,,Portfolio pure premium: 223.27

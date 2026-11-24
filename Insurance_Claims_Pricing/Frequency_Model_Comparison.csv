@@ -1,0 +1,4 @@
+Model,MAE,Poisson_Deviance,RMSE,Predicted_Claims
+Poisson,0.0988,0.3212,0.2373,7194.82
+Negative Binomial alpha=1,0.0994,0.3212,0.2374,7290.14
+Negative Binomial alpha=0.8432,0.0993,0.3212,0.2374,7275.7
